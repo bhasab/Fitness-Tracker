@@ -75,5 +75,5 @@ npm run develop
 
 - Icons are from www.flaticon.com
 - Backgroun photos are from www.pexels.com
-- Made with ❤️ by Wenwen Tian
+
 
